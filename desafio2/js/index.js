@@ -14,6 +14,7 @@ a quantidade de vitórias e derrotas de um jogador,
 depois disso retorne o resultado para uma variável, 
 o saldo de Rankeadas 
 deve ser feito através do calculo (vitórias - derrotas)*/
+
 // Função que calcula o saldo de Rankeadas e determina o nível
 function calcularSaldoRankeadas(vitorias, derrotas) {
     // Calcula o saldo de Rankeadas
